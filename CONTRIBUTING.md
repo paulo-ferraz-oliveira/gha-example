@@ -11,7 +11,7 @@
 
 ## License
 
-`gha-example` is licensed under the [MIT License](LICENSE), for all code.
+`gha-example` is licensed under the [MIT License](LICENSE.md), for all code.
 
 ## Reporting a bug
 
