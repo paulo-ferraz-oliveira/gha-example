@@ -66,7 +66,7 @@ For more information check out [CONTRIBUTING.md](https://github.com/paulo-ferraz
 
 ### License
 
-License information can be found inside [LICENSE](https://github.com/paulo-ferraz-oliveira/gha-example/blob/main/LICENSE).
+License information can be found inside [LICENSE](https://github.com/paulo-ferraz-oliveira/gha-example/blob/main/LICENSE.md).
 
 ### Security
 
