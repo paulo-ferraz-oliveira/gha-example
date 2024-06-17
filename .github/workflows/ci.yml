@@ -26,10 +26,10 @@ jobs:
 
       - run: npm run build-dist
 
-      - run: npm run test
-
       - name: Check if build left artifacts
         run: git diff --exit-code
+
+      - run: npm run test
 
   action:
     name: Action CI
