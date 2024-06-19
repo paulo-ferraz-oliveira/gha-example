@@ -41,7 +41,7 @@ to learn more about this file and its format.
 
 ### Changelog
 
-A complete changelog can be found under [GitHub releases](https://github.com/paulo-ferraz-oliveira/example-gha/releases).
+A complete changelog can be found under [GitHub releases](https://github.com/paulo-ferraz-oliveira/gha-example/releases).
 
 ### Code of Conduct
 
