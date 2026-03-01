@@ -25,6 +25,7 @@ function simulateInput(key, value) {
 function prepareForOutput() {
   try {
     fs.unlinkSync(outputsF)
+  } catch {
   } finally {
     fs.openSync(outputsF, 'w')
   }
