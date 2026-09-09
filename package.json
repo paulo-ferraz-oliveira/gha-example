@@ -4,10 +4,10 @@
     "@actions/core": "3.0.1"
   },
   "devDependencies": {
-    "@vercel/ncc": "0.44.1",
-    "eslint": "10.7.0",
-    "markdownlint-cli": "0.49.0",
-    "prettier": "3.9.5",
+    "@vercel/ncc": "0.45.0",
+    "eslint": "10.10.0",
+    "markdownlint-cli": "0.49.1",
+    "prettier": "3.9.6",
     "yaml-lint": "1.7.0"
   },
   "scripts": {
